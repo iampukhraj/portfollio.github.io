@@ -1,0 +1,163 @@
+.list {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    justify-content: end;
+    background-color: rgb(140, 241, 208);
+    
+
+}
+
+.list1 {
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+   
+}
+
+.background {
+
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Blurred-Web-Backgrounds-HD-Wallpaper.jpg)
+}
+
+.profile {
+    text-align: center;
+    margin: 10px;
+    color: rgb(2, 73, 43);
+    font-size: 20px;
+}
+
+.button {
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.b {
+    color: white;
+    background-color: rgb(45, 212, 59);
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    padding: 6px;
+}
+
+.icon {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: px;
+
+}
+
+i {
+    margin: 10px;
+}
+
+.t {
+    position: relative;
+    display: flex;
+    color: rgb(15, 71, 92);
+    
+
+}
+
+.about {
+    box-shadow: 2px 2px 10px 2px;
+    height: 300px;
+    margin-top: 50px;
+    padding: 5px;
+    color: brown;
+   
+
+
+}
+
+.me {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(82, 47, 4);
+
+}
+
+.info {
+    height: 150px;
+    display: flex;
+    font-size: large;
+    color: rgb(62, 22, 100);
+   width: 80%;
+}
+
+.info1 {
+    position: relative;
+    justify-content: end;
+    padding-left: 100px;
+    color: rgb(18, 92, 67);
+    font-size: large;
+}
+
+.skill {
+    
+    
+    width: 100%;
+    border: 0px solid red;
+
+}
+.prop{
+    width: 80%;
+    border: 0px solid red;
+    margin: auto;
+    box-shadow: 2px 2px 10px 2px;
+    height: 200px;
+    margin-top: 50px;
+    padding: 20px 10px 20px 20px;
+}
+
+.box1 {
+    margin-top: 50px;
+    padding: 5px;
+    height: 200px;
+    display: flex;
+    box-shadow: 2px 2px 10px 2px;
+    color: rgb(12, 77, 77);
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.boxedu {
+    padding: 15px;
+    margin-left: 260px;
+
+}
+
+.box {
+    margin-top: 50px;
+    padding: 5px;
+    height: 200px;
+    display: flex;
+    box-shadow: 2px 2px 90px 2px;
+
+
+}
+
+.map {
+    margin-top: 30px;
+
+}
+
+
+h5 {
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(95, 56, 4);
+    font-size: 20px;
+}
